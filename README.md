@@ -2,7 +2,12 @@
   <b>Hi, I'm Rojda 👋</b><br>
   AI & Machine Learning Enthusiast
 </p>
-
+![Python](https://img.shields.io/badge/Python-Advanced-blue)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Experienced-success)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-TensorFlow-orange)
+![XGBoost](https://img.shields.io/badge/XGBoost-Regression-red)
+![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-lightgrey)
+![SQL](https://img.shields.io/badge/SQL-Database-blueviolet)
 <!--
 **rojdaineurope/rojdaineurope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
