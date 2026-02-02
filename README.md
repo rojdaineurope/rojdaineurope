@@ -9,6 +9,18 @@
   <img src="https://img.shields.io/badge/SQL-Database-blueviolet" />
 </p>
 
+
+<h3 align="center">📫 Contact Me</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/Rojda_Süslü" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Rojda%20Süslü-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:rojdasuslu59@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 <!--
 **rojdaineurope/rojdaineurope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
