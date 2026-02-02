@@ -14,12 +14,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rojda-s%C3%BCsl%C3%BC-3b59a3365/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Rojda%20Suslu-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:rojda.suslu@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-rojda.suslu@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:rojda.suslu59@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-lightgrey?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
 
 
 <!--
