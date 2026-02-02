@@ -10,16 +10,17 @@
 </p>
 
 
-<h3 align="center">📫 CONTACT ME</h3>
+<h3 align="center">📫 Contact Me</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rojda-suslu" target="_blank">
+  <a href="https://www.linkedin.com/in/rojda-s%C3%BCsl%C3%BC-3b59a3365/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Rojda%20Suslu-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:rojda.suslu@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-rojda.suslu@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
 
 <!--
 **rojdaineurope/rojdaineurope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
