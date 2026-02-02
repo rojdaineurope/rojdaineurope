@@ -1,14 +1,14 @@
 <p align="center">
   <b>Hi, I'm Rojda 👋</b><br>
-  AI & Machine Learning Enthusiast
+  AI & Machine Learning Engineer in Training
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-Advanced-blue" />
   <img src="https://img.shields.io/badge/Machine%20Learning-Experienced-success" />
   <img src="https://img.shields.io/badge/Deep%20Learning-TensorFlow-orange" />
-  <img src="https://img.shields.io/badge/XGBoost-Regression-red" />
-  <img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-lightgrey" />
+  <img src="https://img.shields.io/badge/SQL-Database-blueviolet" />
 </p>
+
 <!--
 **rojdaineurope/rojdaineurope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
