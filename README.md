@@ -1,7 +1,11 @@
 <p align="center">
-  <b>Hi, I'm Rojda 👋</b><br>
-  AI & Machine Learning Engineer in Training
+  <em>
+    Hi, I'm Rojda 👋<br>
+    AI & Machine Learning Engineer in Training
+  </em>
 </p>
+
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-Advanced-blue" />
   <img src="https://img.shields.io/badge/Machine%20Learning-Experienced-success" />
