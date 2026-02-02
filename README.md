@@ -13,7 +13,7 @@
 <h3 align="center">📫 Contact Me</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/Rojda_Süslü" target="_blank">
+  <a href="https://www.linkedin.com/in/rojda-suslu" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Rojda%20Süslü-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:rojdasuslu59@gmail.com">
