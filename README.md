@@ -10,14 +10,14 @@
 </p>
 
 
-<h3 align="center">📫 Contact Me</h3>
+<h3 align="center">📫 CONTACT ME</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rojda-suslu" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Rojda%20Süslü-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Rojda%20Suslu-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:rojdasuslu59@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:rojda.suslu@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-rojda.suslu@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
